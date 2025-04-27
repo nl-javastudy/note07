@@ -22,3 +22,11 @@ RuntimeException
 '''java public class Hello { public static void main(String[] args) { System.out.println("Hello, World!"); } } ``` </pre>
 
 > **Note:** Always close your resources!
+
+Repository Root/
+├── .gitignore     # always at root
+├── README.md
+├── src/
+│   ├── w2/
+│   └── w3/
+└── docs/
