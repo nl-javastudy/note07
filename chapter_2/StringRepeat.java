@@ -1,4 +1,5 @@
-package study.w2;
+
+
 
 public class StringRepeat {
     public static void main(String[] args){
